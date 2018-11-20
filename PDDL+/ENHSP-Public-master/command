@@ -1,1 +1,0 @@
-./pyrunlim.py 2> times/baxter ./enhsp -o baxter.pddl -f baxter_problem_2.pddl -sp 

@@ -1,3 +1,0 @@
-#!/bin/bash
-
-javac -Xlint -classpath "$(pwd)"/src/:"$(pwd)"/libs/* src/ENHSP.java
