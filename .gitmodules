@@ -1,0 +1,3 @@
+[submodule "PDDL+/UPMurphi"]
+	path = PDDL+/UPMurphi
+	url = https://github.com/gdellapenna/UPMurphi.git
