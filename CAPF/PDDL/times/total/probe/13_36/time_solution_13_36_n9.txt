@@ -1,0 +1,2 @@
+Command terminated by signal 9
+3598.80 1.12

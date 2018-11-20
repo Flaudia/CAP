@@ -1,0 +1,2 @@
+Command terminated by signal 9
+3599.50 0.47

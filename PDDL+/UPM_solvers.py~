@@ -1,0 +1,94 @@
+#!/usr/bin/env python
+# coding: utf-8
+import os
+from os.path import isfile, join, dirname, exists, realpath, normpath, isdir
+
+local_path = dirname(realpath(__file__))
+
+typologies = ["MCU","MCUA","noG"] 
+times_names = ["4n1", "4cn1","5n1", "5cn1","6n1", "6cn1"]
+problems_names =  ["problem_4_n1.pddl", "problem_4c_n1.pddl", "problem_5_n1.pddl", "problem_5c_n1.pddl", "problem_6_n1.pddl", "problem_6c_n1.pddl"]
+plans_names =  ["problem_4_n1_plan.pddl", "problem_4c_n1_plan.pddl", "problem_5_n1_plan.pddl", "problem_5c_n1_plan.pddl", "problem_6_n1_plan.pddl", "problem_6c_n1_plan.pddl"]
+
+for k in range(0, len(typologies)):
+	for i in range(0, len(times_names)):
+
+
+## ENHSP ---------------------------------------------------------------
+
+
+
+
+## UPMURPHi ---------------------------------------------------------------
+
+
+		times_path_UPM = local_path + "/times/UPMurphi/" + typologies[k] 
+
+		if not os.path.exists(times_path_UPM):
+			os.makedirs(times_path_UPM)
+
+		times_path_UPM = times_path_UPM + "/" + times_names[i]
+
+
+		solutions_path_UPM = local_path + "/solutions/UPMurphi/" + typologies[k] 
+
+		if not os.path.exists(solutions_path_UPM):
+			os.makedirs(solutions_path_UPM)
+
+		solutions_path_UPM = times_path_UPM + "/" + times_names[i]
+
+
+
+
+		encoding_path = local_path + "/encodings/improved/" + typologies[k] + "/baxter.pddl"
+		problem_path = local_path + "/problems/improved/" + typologies[k] + "/" + problems_names[i]
+		
+		print "\n\n------------------------------------------------------------------FIRST STEP----------------------------------------------------------------------------------------\n\n"
+
+		command = "./pyrunlim.py 2> " + times_path_UPM + " -t3600 ./UPMurphi/bin/upmc " +  encoding_path + " " + problem_path + " --custom 1 6 5"
+		os.system(command)
+
+		print "\n\n------------------------------------------------------------------SECOND STEP----------------------------------------------------------------------------------------\n\n"
+
+		command =  "./encodings/improved/" + typologies[k] + "/baxter_planner" 
+		os.system(command)
+
+		print "\n\n------------------------------------------------------------------THIRD STEP----------------------------------------------------------------------------------------\n\n"
+
+		command = "cp " + local_path + "/problems/improved/" + typologies[k] + "/" + plans_names[i] + " " + local_path + "/solutions/UPMurphi/" + typologies[k] 
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.cpp"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.goals" 
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter_planner"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.errors"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.properties"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.h"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.m"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.startstates"
+		os.system(command)
+
+		command = "rm " + local_path + "/encodings/improved/" + typologies[k] + "/baxter.transitions"
+		os.system(command)
+	
+		
+
+
+
+
+	
+

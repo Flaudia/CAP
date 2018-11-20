@@ -1,0 +1,25 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./enhsp -o baxter.pddl -f problem_6_n3.pddl -sp"
+[pyrunlim] start:		Thu Oct  4 02:46:55 2018
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.064	    15.440	     0.460	     679.6	     668.2	       0.0
+[pyrunlim] sample:		    20.134	    26.990	     0.490	     679.6	     665.2	       0.0
+[pyrunlim] end:  		Thu Oct  4 02:47:15 2018
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		3
+[pyrunlim] real:		20.635 seconds
+[pyrunlim] time:		27.480 seconds
+[pyrunlim] user:		26.990 seconds
+[pyrunlim] system:		0.490 seconds
+[pyrunlim] memory:		679.6 MB
+[pyrunlim] samples:		57

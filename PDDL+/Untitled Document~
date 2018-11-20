@@ -1,0 +1,12 @@
+import os
+from os.path import isfile, join, dirname, exists, realpath, normpath, isdir
+
+
+times ["4n1", 
+
+
+
+command = 'ulimit -t 3600; /usr/bin/time -f "%U %S" --output=' + times_path + " " + probe_path + " -d " + domain_path + " -i " + problem_path + " -o " + solution_path
+
+			print command
+			os.system(command)

@@ -1,0 +1,118 @@
+#!/usr/bin/env python
+# coding: utf-8
+import os
+import subprocess
+from os.path import isfile, join, dirname, exists, realpath, normpath, isdir
+
+
+local_path = dirname(realpath(__file__))
+
+#times
+
+times_input_path = local_path + "/times_output"
+
+output_files_path = local_path + "/latex_tables"
+
+if not os.path.exists(output_files_path + "/times"):
+	os.makedirs(output_files_path+ "/times")
+
+if not os.path.exists(output_files_path + "/actions"):
+	os.makedirs(output_files_path+ "/actions")
+
+for subdir, dirs, files in os.walk(times_input_path):
+
+	for file in files:
+		file_name = str(file)
+		file_name = file_name.replace("time_","")
+		file_name = file_name.replace(".txt","")
+
+		madagascar_data = []
+		probe_data = []
+		clingo_data = []
+
+		input_file =  open(times_input_path + "/" + str(file) ,"r")
+		output_times_file = open(output_files_path + "/times/" + file_name + "_times.txt" ,"w")
+		output_actions_file = open(output_files_path + "/actions/" + file_name + "_actions.txt" ,"w")
+		
+		for line in input_file: 
+
+			#MADAGASCAR
+			if line.find("madagascar") != -1:
+				madagascar_data.append(line)
+			#PROBE
+			if line.find("probe") != -1:
+				probe_data.append(line)
+			#CLINGO
+			if line.find("clingo") != -1:
+				clingo_data.append(line)
+		
+		#TIMES_TABLES
+		
+		output_times_file.write("\documentclass[12pt]{article}\n")
+		output_times_file.write("\\"+"begin{document}\n")
+		output_times_file.write("\\"+"begin{center}\n")
+		output_times_file.write("\\"+"begin{tabular}{ | l | c | r }\n")
+		output_times_file.write("Experiment Number")
+
+		for count in range(1,11):
+			output_times_file.write(" & " + str(count))
+
+		output_times_file.write(" \hline\nMadagascar")
+		for words in madagascar_data: 
+			words = words.split(",")
+			output_times_file.write(" & " + words[1])
+		output_times_file.write("\\\\ ")
+
+		output_times_file.write(" \hline\nProbe")
+		for words in probe_data: 
+			words = words.split(",")
+			output_times_file.write(" & " + words[1])
+		output_times_file.write("\\\\ ")
+
+		output_times_file.write(" \hline\nClingo")
+		for words in clingo_data: 
+			words = words.split(",")
+			output_times_file.write(" & " + words[1])
+		output_times_file.write("\\\\ \hline\n")
+		output_times_file.write("\end{tabular}\n")
+		output_times_file.write("\end{center}\n")
+		output_times_file.write("\hline\n\end{document}")
+			
+		output_times_file.close()
+
+		#ACTION_TABLES
+
+		output_actions_file.write("\documentclass[12pt]{article}\n")
+		output_actions_file.write("\\"+"begin{document}\n")
+		output_actions_file.write("\\"+"begin{center}\n")
+		output_actions_file.write("\\"+"begin{tabular}{ | l | c | r }\n")
+		output_actions_file.write("Experiment Number")
+
+		for count in range(1,11):
+			output_actions_file.write(" & " + str(count))
+
+		output_actions_file.write("\hline\n Madagascar")
+		for words in madagascar_data: 
+			words = words.split(",")
+			output_actions_file.write(" & " + words[2].rstrip())
+		output_actions_file.write("\\\\ ")
+
+		output_actions_file.write("\hline\n Probe")
+		for words in probe_data: 
+			words = words.split(",")
+			output_actions_file.write(" & " + words[2].rstrip())
+		output_actions_file.write("\\\\ ")
+
+		output_actions_file.write("\hline\n Clingo")
+		for words in clingo_data: 
+			words = words.split(",")
+			output_actions_file.write(" & " + words[2].rstrip())
+		output_actions_file.write("\\\\ \hline\n")	
+		output_actions_file.write("\end{tabular}\n")
+		output_actions_file.write("\end{center}\n")
+		output_actions_file.write("\hline\n\end{document}")	
+
+		output_actions_file.close()
+
+
+	

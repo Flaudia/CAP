@@ -1,0 +1,12 @@
+\documentclass[12pt]{article}
+\begin{document}
+\begin{center}
+\begin{tabular}{ | l | c | r }
+Experiment Number & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \hline
+Madagascar & 0.26 & 0.19 & 0.24 & 0.25 & 0.31 & 0.08 & 0.15 & 0.12 & 0.07 & 0.2\\  \hline
+Probe & 0.01 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01 & 0.03 & 0.01\\  \hline
+Clingo & 1.060 & 0.000 & 0.220 & 2.750 & 0.010 & 0.120 & 0.010 & 0.000 & 0.170 & 0.000\\ \hline
+\hline
+\end{tabular}
+\end{center}
+\end{document}

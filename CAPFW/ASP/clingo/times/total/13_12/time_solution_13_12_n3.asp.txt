@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "./pyrunlim.py", line 526, in <module>
+    parseArguments(process)
+  File "./pyrunlim.py", line 36, in parseArguments
+    parser = argparse.ArgumentParser(description=GPL.split("\n")[1], epilog="Copyright (C) 2014  Mario Alviano (mario@alviano.net)")
+  File "/usr/lib/python3.4/argparse.py", line 1656, in __init__
+    help=_('show this help message and exit'))
+  File "/usr/lib/python3.4/argparse.py", line 1354, in add_argument
+    self._get_formatter()._format_args(action, None)
+  File "/usr/lib/python3.4/argparse.py", line 2355, in _get_formatter
+    return self.formatter_class(prog=self.prog)
+  File "/usr/lib/python3.4/argparse.py", line 189, in __init__
+    self._long_break_matcher = _re.compile(r'\n\n\n+')
+  File "/usr/lib/python3.4/re.py", line 223, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python3.4/re.py", line 294, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python3.4/sre_compile.py", line 568, in compile
+    p = sre_parse.parse(p, flags)
+  File "/usr/lib/python3.4/sre_parse.py", line 760, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/usr/lib/python3.4/sre_parse.py", line 370, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/usr/lib/python3.4/sre_parse.py", line 575, in _parse
+    item = subpattern[-1:]
+  File "/usr/lib/python3.4/sre_parse.py", line 142, in __getitem__
+    def __getitem__(self, index):
+KeyboardInterrupt

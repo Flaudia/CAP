@@ -1,0 +1,10 @@
+madagascar_time_4_18_n7,6.81,198	probe_time_4_18_n7,0.37,32	clingo_time_4_18_n7,15.100,14
+madagascar_time_4_18_n10,2.87,74	probe_time_4_18_n10,0.12,24	clingo_time_4_18_n10,3600.410,0
+madagascar_time_4_18_n5,2.98,41		probe_time_4_18_n5,0.12,15	clingo_time_4_18_n5,3598.420,0
+madagascar_time_4_18_n9,0,0			probe_time_4_18_n9,0.35,26	clingo_time_4_18_n9,0.610,10
+madagascar_time_4_18_n6,1.08,10		probe_time_4_18_n6,0.09,8	clingo_time_4_18_n6,300.520,18
+madagascar_time_4_18_n2,0,0			probe_time_4_18_n2,0.17,28	clingo_time_4_18_n2,112.870,19
+madagascar_time_4_18_n1,1.13,9		probe_time_4_18_n1,0.1,9	clingo_time_4_18_n1,2.940,12
+madagascar_time_4_18_n4,0,0			probe_time_4_18_n4,0.24,28	clingo_time_4_18_n4,1.310,11
+madagascar_time_4_18_n3,3.52,113	probe_time_4_18_n3,0.18,19	clingo_time_4_18_n3,1.180,8
+madagascar_time_4_18_n8,1.73,28		probe_time_4_18_n8,0.11,16	clingo_time_4_18_n8,3600.070,0

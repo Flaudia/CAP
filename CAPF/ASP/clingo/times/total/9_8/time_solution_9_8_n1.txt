@@ -1,0 +1,87 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		3600 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3, 4, 5, 6, 7]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3, 4, 5, 6, 7]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_9_8_n1 /home/emarolab/ASP/CAPF/ASP/clingo/data/9_8/9_8_n1.asp 9_8"
+[pyrunlim] start:		Tue Jan 16 02:29:14 2018
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.373	     0.100	     0.000	      25.5	      25.5	       0.0
+[pyrunlim] sample:		    20.112	     0.980	     0.000	      41.2	      41.2	       0.0
+[pyrunlim] sample:		    30.765	     6.310	     0.010	      44.8	      38.3	       0.0
+[pyrunlim] sample:		    40.910	    16.460	     0.010	      48.3	      48.3	       0.0
+[pyrunlim] sample:		    50.040	    25.580	     0.010	      48.6	      48.6	       0.0
+[pyrunlim] sample:		    60.180	    32.930	     0.010	      51.8	      51.8	       0.0
+[pyrunlim] sample:		    70.325	    43.070	     0.010	      52.1	      52.1	       0.0
+[pyrunlim] sample:		    80.469	    53.210	     0.010	      52.1	      52.1	       0.0
+[pyrunlim] sample:		    90.613	    63.360	     0.010	      52.1	      52.1	       0.0
+[pyrunlim] sample:		   100.757	    73.500	     0.010	      52.1	      52.1	       0.0
+[pyrunlim] sample:		   110.902	    83.650	     0.010	      52.1	      52.1	       0.0
+[pyrunlim] sample:		   120.029	    90.300	     0.020	      55.8	      55.8	       0.0
+[pyrunlim] sample:		   130.178	   100.450	     0.020	      55.8	      55.8	       0.0
+[pyrunlim] sample:		   140.326	   110.600	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   150.475	   120.740	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   160.623	   130.890	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   170.770	   141.040	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   180.916	   151.180	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   190.049	   160.320	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   200.197	   170.460	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   210.343	   180.610	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   220.489	   190.760	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   230.636	   200.900	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   240.782	   211.050	     0.020	      56.3	      56.3	       0.0
+[pyrunlim] sample:		   250.928	   221.190	     0.020	      56.6	      56.6	       0.0
+[pyrunlim] sample:		   260.059	   230.330	     0.020	      56.6	      56.6	       0.0
+[pyrunlim] sample:		   270.205	   240.470	     0.020	      56.6	      56.6	       0.0
+[pyrunlim] sample:		   280.351	   250.620	     0.020	      59.6	      59.6	       0.0
+[pyrunlim] sample:		   290.498	   260.770	     0.020	      60.7	      60.7	       0.0
+[pyrunlim] sample:		   300.645	   270.910	     0.020	      60.7	      60.7	       0.0
+[pyrunlim] sample:		   310.791	   281.060	     0.020	      60.7	      60.7	       0.0
+[pyrunlim] sample:		   320.937	   291.200	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   330.068	   300.330	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   340.214	   310.480	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   350.362	   320.620	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   360.508	   330.770	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   370.655	   340.920	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   380.800	   351.060	     0.020	      60.9	      60.9	       0.0
+[pyrunlim] sample:		   390.947	   361.210	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   400.078	   370.340	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   410.225	   380.490	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   420.370	   390.640	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   430.516	   400.780	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   440.662	   410.930	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   450.808	   421.070	     0.020	      61.5	      61.5	       0.0
+[pyrunlim] sample:		   460.953	   431.220	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   470.085	   440.350	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   480.232	   450.490	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   490.379	   460.640	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   500.526	   470.790	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   510.673	   480.930	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   520.820	   491.080	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   530.968	   501.230	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   540.101	   510.360	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   550.249	   520.510	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   560.395	   530.660	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   570.543	   540.810	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   580.692	   550.950	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   590.841	   561.100	     0.020	      62.0	      62.0	       0.0
+[pyrunlim] sample:		   600.990	   571.250	     0.020	      63.8	      63.8	       0.0
+[pyrunlim] sample:		   610.125	   580.380	     0.020	      63.8	      63.8	       0.0
+[pyrunlim] sample:		   620.272	   590.530	     0.020	      63.8	      63.8	       0.0
+[pyrunlim] sample:		   630.422	   600.680	     0.020	      63.8	      63.8	       0.0
+[pyrunlim] sample:		   640.567	   607.950	     0.030	      63.8	      59.3	       0.0
+[pyrunlim] end:  		Tue Jan 16 02:39:59 2018
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		18
+[pyrunlim] real:		644.608 seconds
+[pyrunlim] time:		608.990 seconds
+[pyrunlim] user:		608.960 seconds
+[pyrunlim] system:		0.030 seconds
+[pyrunlim] memory:		63.8 MB
+[pyrunlim] samples:		674

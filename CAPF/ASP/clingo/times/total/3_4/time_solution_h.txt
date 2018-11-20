@@ -1,0 +1,2442 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		3600 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_h /home/berto/ASP/CAPF/ASP/clingo/data/3_4/h.asp 3_4"
+[pyrunlim] start:		Fri Jan 26 17:17:02 2018
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 82, in wait_pid
+    retpid, status = waitcall()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 73, in waitcall
+    return os.waitpid(pid, os.WNOHANG)
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./pyrunlim.py", line 532, in <module>
+    process.run()
+  File "./pyrunlim.py", line 415, in run
+    time.sleep(.2)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 455, in kill
+    gone, alive = psutil.wait_procs(subprocesses, timeout=1)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1538, in wait_procs
+    check_gone(proc, timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1503, in check_gone
+    returncode = proc.wait(timeout=timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 1264, in wait
+    return self._proc.wait(timeout)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1568, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 96, in wait_pid
+    delay = check_timeout(delay)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_psposix.py", line 67, in check_timeout
+    time.sleep(delay)
+  File "./pyrunlim.py", line 529, in signal_handler
+    process.kill()
+  File "./pyrunlim.py", line 444, in kill
+    subprocesses = self.process.children(recursive=True)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 285, in wrapper
+    if not self.is_running():
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 570, in is_running
+    return self == Process(self.pid)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 341, in __init__
+    self._init(pid)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 368, in _init
+    self.create_time()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/__init__.py", line 699, in create_time
+    self._create_time = self._proc.create_time()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1390, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1572, in create_time
+    values = self._parse_stat_file()
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_common.py", line 337, in wrapper
+    return fun(self)
+  File "/usr/local/lib/python3.4/dist-packages/psutil/_pslinux.py", line 1430, in _parse_stat_file
+    data = f.read()
+RuntimeError: maximum recursion depth exceeded while calling a Python object

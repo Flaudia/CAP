@@ -1,0 +1,66 @@
+define (problem example)
+(:domain paco3d)
+(:objects L1 L2 L3 L4 L5 
+xyaxes ZAXES - axis
+)
+(:init
+
+(vertical ZAXES)
+
+(= (speed-i) 10)
+(= (speed-d) 10)
+
+(= (angle L1 xyaxes) 211.5)
+(= (angle L1 ZAXES) 179.7)
+(= (angle L2 xyaxes) 211.0)
+(= (angle L2 ZAXES) 269.6)
+(= (angle L3 xyaxes) 159.1)
+(= (angle L3 ZAXES) 309.9)
+(= (angle L4 xyaxes) 19.1)
+(= (angle L4 ZAXES) 293.5)
+(= (angle L5 xyaxes) 103.1)
+(= (angle L5 ZAXES) 198.9)
+
+(freeToMove L1) 
+(freeToMove L2) 
+(freeToMove L3) 
+(freeToMove L4) 
+(freeToMove L5) 
+
+(connected L1 L2 )
+(connected L2 L3 )
+(connected L3 L4 )
+(connected L4 L5 )
+(connected L5 L6 )
+
+(fake L1)
+(fake L2)
+(fake L3)
+(fake L4)
+(fake L5)
+
+(affects L2 L3 )
+(affects L2 L4 )
+(affects L2 L5 )
+(affects L3 L4 )
+(affects L3 L5 )
+(affects L4 L5 )
+)
+
+(:goal (and
+(> (angle L1 xyaxes) 49.0)
+(> (angle L1 ZAXES) 351.8)
+(> (angle L2 xyaxes) 298.5)
+(> (angle L2 ZAXES) 200.9)
+(> (angle L3 xyaxes) 162.9)
+(> (angle L3 ZAXES) 35.1)
+(> (angle L4 xyaxes) 17.2)
+(> (angle L4 ZAXES) 271.0)
+(> (angle L5 xyaxes) 182.2)
+(> (angle L5 ZAXES) 258.4)
+(< (angle L2 xyaxes) 193.9)
+(< (angle L5 xyaxes) 352.2)
+(< (angle L1 xyaxes) 238.9)
+
+) )
+)

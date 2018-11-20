@@ -1,0 +1,12 @@
+\documentclass[12pt]{article}
+\begin{document}
+\begin{center}
+\begin{tabular}{ | l | c | r }
+Experiment Number & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10\hline
+ Madagascar & 29 & 39 & 14 & 36 & 21 & 10 & 19 & 38 & 52 & 149\\ \hline
+ Probe & 25 & 19 & 14 & 18 & 19 & 22 & 15 & 26 & 22 & 17\\ \hline
+ Clingo & 11 & 11 & 13 & 13 & 9 & 10 & 11 & 14 & 11 & 13\\ \hline
+\hline
+\end{tabular}
+\end{center}
+\end{document}

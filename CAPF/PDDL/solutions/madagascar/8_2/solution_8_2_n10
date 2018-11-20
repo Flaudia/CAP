@@ -1,0 +1,6 @@
+STEP 0: increase_angle(link1,angle0,angle180)
+STEP 1: decrease_angle(link2,angle180,angle0)
+STEP 2: increase_angle(link4,angle0,angle180)
+STEP 3: decrease_angle(link5,angle0,angle180)
+STEP 4: increase_angle(link6,angle180,angle0)
+STEP 5: decrease_angle(link8,angle180,angle0)

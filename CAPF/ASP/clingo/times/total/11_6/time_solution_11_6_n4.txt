@@ -1,0 +1,35 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		3600 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3, 4, 5, 6, 7]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3, 4, 5, 6, 7]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_11_6_n4 /home/emarolab/ASP/CAPF/ASP/clingo/data/11_6/11_6_n4.asp 11_6"
+[pyrunlim] start:		Fri Jan 19 08:20:52 2018
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.050	     0.000	     0.000	       9.8	       9.8	       0.0
+[pyrunlim] sample:		    20.408	     1.510	     0.000	      33.0	      33.0	       0.0
+[pyrunlim] sample:		    30.060	     9.060	     0.000	      35.7	      35.7	       0.0
+[pyrunlim] sample:		    40.211	    16.890	     0.010	      38.3	      38.3	       0.0
+[pyrunlim] sample:		    50.354	    27.040	     0.010	      38.3	      38.3	       0.0
+[pyrunlim] sample:		    60.497	    37.180	     0.010	      38.3	      38.3	       0.0
+[pyrunlim] sample:		    70.641	    47.320	     0.010	      42.2	      42.2	       0.0
+[pyrunlim] sample:		    80.786	    57.460	     0.010	      42.5	      42.5	       0.0
+[pyrunlim] sample:		    90.930	    67.600	     0.010	      42.5	      42.5	       0.0
+[pyrunlim] sample:		   100.067	    74.230	     0.020	      42.5	      41.0	       0.0
+[pyrunlim] sample:		   110.210	    84.370	     0.020	      42.5	      41.0	       0.0
+[pyrunlim] sample:		   120.363	    92.480	     0.020	      42.5	       9.8	       0.0
+[pyrunlim] end:  		Fri Jan 19 08:22:53 2018
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		12
+[pyrunlim] real:		121.365 seconds
+[pyrunlim] time:		92.500 seconds
+[pyrunlim] user:		92.480 seconds
+[pyrunlim] system:		0.020 seconds
+[pyrunlim] memory:		42.5 MB
+[pyrunlim] samples:		158

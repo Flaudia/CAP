@@ -1,0 +1,12 @@
+\documentclass[12pt]{article}
+\begin{document}
+\begin{center}
+\begin{tabular}{ | l | c | r }
+Experiment Number & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10\hline
+ Madagascar & 198	probe_time_4_18_n7 & 74	probe_time_4_18_n10 & 41		probe_time_4_18_n5 & 0			probe_time_4_18_n9 & 10		probe_time_4_18_n6 & 0			probe_time_4_18_n2 & 9		probe_time_4_18_n1 & 0			probe_time_4_18_n4 & 113	probe_time_4_18_n3 & 28		probe_time_4_18_n8\\ \hline
+ Probe & 198	probe_time_4_18_n7 & 74	probe_time_4_18_n10 & 41		probe_time_4_18_n5 & 0			probe_time_4_18_n9 & 10		probe_time_4_18_n6 & 0			probe_time_4_18_n2 & 9		probe_time_4_18_n1 & 0			probe_time_4_18_n4 & 113	probe_time_4_18_n3 & 28		probe_time_4_18_n8\\ \hline
+ Clingo & 198	probe_time_4_18_n7 & 74	probe_time_4_18_n10 & 41		probe_time_4_18_n5 & 0			probe_time_4_18_n9 & 10		probe_time_4_18_n6 & 0			probe_time_4_18_n2 & 9		probe_time_4_18_n1 & 0			probe_time_4_18_n4 & 113	probe_time_4_18_n3 & 28		probe_time_4_18_n8\\ \hline
+\hline
+\end{tabular}
+\end{center}
+\end{document}

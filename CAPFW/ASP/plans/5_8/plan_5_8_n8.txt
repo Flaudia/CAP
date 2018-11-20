@@ -1,0 +1,8 @@
+STEP0: (increase_angle link1 angle90 angle135)
+STEP1: (increase_angle link1 angle90 angle135)
+STEP2: (decrease_angle link1 angle135 angle90)
+STEP3: (decrease_angle link5 angle225 angle180)
+STEP4: (decrease_angle link3 angle90 angle45)
+STEP5: (increase_angle link1 angle135 angle180)
+STEP6: (increase_angle link1 angle180 angle225)
+STEP7: (increase_angle link2 angle135 angle180)

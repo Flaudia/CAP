@@ -1,0 +1,48 @@
+define (problem example)
+(:domain paco3d)
+(:objects L1 L2 L3 L4 
+xyaxes ZAXES - axis
+)
+(:init
+
+(= (speed-i) 10)
+(= (speed-d) 10)
+((= (speed-g) 1)
+
+(= (angle L1 xyaxes) 179.7)
+(= (angle L1 ZAXES) 328.3)
+(= (angle L2 xyaxes) 91.6)
+(= (angle L2 ZAXES) 102.5)
+(= (angle L3 xyaxes) 280.3)
+(= (angle L3 ZAXES) 162.4)
+(= (angle L4 xyaxes) 176.6)
+(= (angle L4 ZAXES) 36.2)
+
+(freeToMove L1) 
+(freeToMove L2) 
+(freeToMove L3) 
+(freeToMove L4) 
+
+(connected L1 L2 )
+(connected L2 L3 )
+(connected L3 L4 )
+(connected L4 L5 )
+
+
+(affects L2 L3 )
+(affects L2 L4 )
+(affects L3 L4 )
+)
+
+(:goal (and
+(> (angle L1 xyaxes) 322.6)
+(> (angle L1 ZAXES) 11.3)
+(> (angle L2 xyaxes) 47.6)
+(> (angle L2 ZAXES) 287.5)
+(> (angle L3 xyaxes) 285.5)
+(> (angle L3 ZAXES) 174.0)
+(> (angle L4 xyaxes) 199.1)
+(> (angle L4 ZAXES) 166.7)
+
+) )
+)

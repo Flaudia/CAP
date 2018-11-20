@@ -1,0 +1,23 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		3600 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "clingo --opt-strategy=usc,oll,4 solution_13_12_n10.asp /home/berto/ASP/CAPFW/ASP/clingo/data/13_12/13_12_n10.asp 13_12"
+[pyrunlim] start:		Sat May  5 20:54:48 2018
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] end:  		Sat May  5 20:54:48 2018
+[pyrunlim] status:		complete
+[pyrunlim] result:		128
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		1
+[pyrunlim] real:		0.106 seconds
+[pyrunlim] time:		0.000 seconds
+[pyrunlim] user:		0.000 seconds
+[pyrunlim] system:		0.000 seconds
+[pyrunlim] memory:		0.0 MB
+[pyrunlim] samples:		1
