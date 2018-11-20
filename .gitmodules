@@ -4,3 +4,6 @@
 [submodule "PDDL+/the-enhsp-planner"]
 	path = PDDL+/the-enhsp-planner
 	url = https://bitbucket.org/enricode/the-enhsp-planner.git
+[submodule "PDDL+/DiNo"]
+	path = PDDL+/DiNo
+	url = https://github.com/KCL-Planning/DiNo.git
